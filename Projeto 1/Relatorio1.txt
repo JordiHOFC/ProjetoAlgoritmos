@@ -1,0 +1,7 @@
+
+ Tempo gasto por Selection Sort 0.148000  quantidade de instancias 10000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 10000 
+ Tempo gasto por Merge Sort 0.004000  quantidade de instancias 10000
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 10000
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 10000
+ Tempo gasto por Heap Sort 0.000000  quantidade de instancias 10000

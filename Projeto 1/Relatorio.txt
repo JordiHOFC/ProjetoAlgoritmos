@@ -1,0 +1,105 @@
+//crescente
+ Tempo gasto por Selection Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 10 
+ Tempo gasto por Merge Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Heap Sort 0.000000  quantidade de instancias 10
+//descrescente
+ Tempo gasto por Selection Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 10 
+ Tempo gasto por Merge Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Heap Sort 0.000000  quantidade de instancias 10
+//aleatorio
+ Tempo gasto por Selection Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 10 
+ Tempo gasto por Merge Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 10
+ Tempo gasto por Heap Sort 0.000000  quantidade de instancias 10
+//crescente
+ Tempo gasto por Selection Sort 0.001000  quantidade de instancias 1000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 1000 
+ Tempo gasto por Merge Sort 0.000000  quantidade de instancias 1000
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 1000
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 1000
+ Tempo gasto por Heap Sort 0.000000  quantidade de instancias 1000
+//decrescente
+ Tempo gasto por Selection Sort 0.001000  quantidade de instancias 1000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 1000 
+ Tempo gasto por Merge Sort 0.000000  quantidade de instancias 1000
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 1000
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 1000
+ Tempo gasto por Heap Sort 0.000000  quantidade de instancias 1000
+//aleatorio
+ Tempo gasto por Selection Sort 0.001000  quantidade de instancias 1000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 1000 
+ Tempo gasto por Merge Sort 0.001000  quantidade de instancias 1000
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 1000
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 1000
+ Tempo gasto por Heap Sort 0.000000  quantidade de instancias 1000
+//crescente
+ Tempo gasto por Selection Sort 0.121000  quantidade de instancias 10000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 10000 
+ Tempo gasto por Merge Sort 0.002000  quantidade de instancias 10000
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 10000
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 10000
+ Tempo gasto por Heap Sort 0.001000  quantidade de instancias 10000
+//decrescente
+ Tempo gasto por Selection Sort 0.116000  quantidade de instancias 10000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 10000 
+ Tempo gasto por Merge Sort 0.002000  quantidade de instancias 10000
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 10000
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 10000
+ Tempo gasto por Heap Sort 0.001000  quantidade de instancias 10000
+//aleatorio
+ Tempo gasto por Selection Sort 0.121000  quantidade de instancias 10000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 10000 
+ Tempo gasto por Merge Sort 0.002000  quantidade de instancias 10000
+ Tempo gasto por Shell Sort 0.000000  quantidade de instancias 10000
+ Tempo gasto por Quick Sort 0.000000  quantidade de instancias 10000
+ Tempo gasto por Heap Sort 0.001000  quantidade de instancias 10000
+//crescente
+ Tempo gasto por Selection Sort 12.202000  quantidade de instancias 100000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 100000 
+ Tempo gasto por Merge Sort 0.017000  quantidade de instancias 100000
+ Tempo gasto por Shell Sort 0.004000  quantidade de instancias 100000
+ Tempo gasto por Quick Sort 0.004000  quantidade de instancias 100000
+ Tempo gasto por Heap Sort 0.013000  quantidade de instancias 100000
+//decrescente
+ Tempo gasto por Selection Sort 11.937000  quantidade de instancias 100000
+ Tempo gasto por Insertion Sort 0.000000  quantidade de instancias 100000 
+ Tempo gasto por Merge Sort 0.017000  quantidade de instancias 100000
+ Tempo gasto por Shell Sort 0.004000  quantidade de instancias 100000
+ Tempo gasto por Quick Sort 0.004000  quantidade de instancias 100000
+ Tempo gasto por Heap Sort 0.013000  quantidade de instancias 100000
+//aleatorio
+ Tempo gasto por Selection Sort 12.324000  quantidade de instancias 100000
+ Tempo gasto por Insertion Sort 0.001000  quantidade de instancias 100000 
+ Tempo gasto por Merge Sort 0.016000  quantidade de instancias 100000
+ Tempo gasto por Shell Sort 0.004000  quantidade de instancias 100000
+ Tempo gasto por Quick Sort 0.005000  quantidade de instancias 100000
+ Tempo gasto por Heap Sort 0.014000  quantidade de instancias 100000
+//crescente
+ Tempo gasto por Selection Sort 1329.373047  quantidade de instancias 1000000
+ Tempo gasto por Insertion Sort 0.004000  quantidade de instancias 1000000 
+ Tempo gasto por Merge Sort 0.185000  quantidade de instancias 1000000
+ Tempo gasto por Shell Sort 0.044000  quantidade de instancias 1000000
+ Tempo gasto por Quick Sort 0.049000  quantidade de instancias 1000000
+ Tempo gasto por Heap Sort 0.148000  quantidade de instancias 1000000
+//decrescente
+ Tempo gasto por Selection Sort 1211.635010  quantidade de instancias 1000000
+ Tempo gasto por Insertion Sort 1760.741943  quantidade de instancias 1000000 
+ Tempo gasto por Merge Sort 0.183000  quantidade de instancias 1000000
+ Tempo gasto por Shell Sort 0.044000  quantidade de instancias 1000000
+ Tempo gasto por Quick Sort 0.047000  quantidade de instancias 1000000
+ Tempo gasto por Heap Sort 0.145000  quantidade de instancias 1000000
+//aleatoria
+ Tempo gasto por Selection Sort 1217.406982  quantidade de instancias 1000000
+ Tempo gasto por Insertion Sort 0.004000  quantidade de instancias 1000000 
+ Tempo gasto por Merge Sort 0.194000  quantidade de instancias 1000000
+ Tempo gasto por Shell Sort 0.048000  quantidade de instancias 1000000
+ Tempo gasto por Quick Sort 0.055000  quantidade de instancias 1000000
+ Tempo gasto por Heap Sort 0.151000  quantidade de instancias 1000000
